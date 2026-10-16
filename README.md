@@ -4,7 +4,7 @@ A small AI agent that answers questions about research papers on arXiv. I built 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shivangraikar/paper-pal/blob/main/paper_pal.ipynb)
 
-Companion notebook for my article: **[Harness, Evals, Guardrails: I Built One Small Agent to Learn the Words Everyone Uses](link)**
+Companion notebook for my article: **[Harness, Evals, Guardrails: I Built One Small Agent to Learn the Words Everyone Uses](link)**
 
 ## What's inside
 
